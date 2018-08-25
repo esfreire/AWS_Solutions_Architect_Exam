@@ -7,9 +7,9 @@ In order to prepare the * **AWS Certified Solutions Architect – Associate Feb 
 
 I Also, added some extra needed knowledge for the exam and a key notes paragraph with the main information to know for each relevant service. 
 
-I think this document can be useful for students who wants to prepare the AWS Solutions Architect certification so It is why I am uploading it to my GitHub account. 
+I think this document can be useful for students who wants to prepare the AWS Solutions Architect certification so it is why I am uploading it to my GitHub account. 
 
-I would like to thank to Jayndra for give me permission fir uploading this document.  
+I would like to thank to Jayndra Patil  for giving me permission for uploading this document.  
 
 ## Getting Started
 
@@ -25,6 +25,3 @@ Document is in ODT format since I use LibreOffice to make my documents but I als
 
 * AWS Infrastructure and Services features changes every week, so the information of this document probably will need to be updated by the time you read it :)
 * If you want to make some changes on the document add new information/services, you are welcome :) , please add yourself to the author's list on the document, indicate the changes made and make a pull request indicating what you have changed and why and I will include it on the repository. 
-
-
-# AWS_Solutions_Architect_Exam
