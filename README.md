@@ -1,6 +1,6 @@
 # AWS Certified Solutions Architect – Associate Feb 2018 Exam's notes
 
-In order to prepare the * **AWS Certified Solutions Architect – Associate Feb 2018 Exam**, I made a document with a summary with all the relevant information to study for the exam. I took this information from the following sites:
+In order to prepare the **AWS Certified Solutions Architect – Associate Feb 2018 Exam**, I made a document with a summary with all the relevant information to study for the exam. I took this information from the following sites:
 
 * [Jayendra’s blog](http://jayendrapatil.com/) - A nice blog to study and prepare AWS Certifications 
 * [AWS documentation](https://aws.amazon.com/documentation/?nc1=h_ls) - AWS documentation 
