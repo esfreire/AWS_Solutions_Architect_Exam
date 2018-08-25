@@ -13,7 +13,13 @@ I would like to thank to Jayndra Patil  for giving me permission for uploading t
 
 ## Getting Started
 
-Document is in ODT format since I use LibreOffice to make my documents but I also put it available in DOCX and PDF format.
+Document is available to be downloaded on the following formats:
+
+AWS_Solution_Architect_Exam_notes_July_2018_v1.docx
+AWS_Solution_Architect_Exam_notes_July_2018_v1.odt
+AWS_Solution_Architect_Exam_notes_July_2018_v1.pdf
+
+Download the document in the desired format (ODT, DOCX or PDF) and start studying your Solutions Architect certification :)
 
 ## Authors
 
